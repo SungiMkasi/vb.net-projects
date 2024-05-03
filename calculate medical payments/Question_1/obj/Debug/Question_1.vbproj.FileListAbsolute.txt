@@ -1,0 +1,43 @@
+C:\Projects\MyInfo\New folder\Moderation for 2022\242 October 2022\Principles of Computer Programming L3P2 of 2022\NCV 01 of 2022\StudentFiles\VB2008\Question_1\Question_1\bin\Debug\Question_1.exe
+C:\Projects\MyInfo\New folder\Moderation for 2022\242 October 2022\Principles of Computer Programming L3P2 of 2022\NCV 01 of 2022\StudentFiles\VB2008\Question_1\Question_1\bin\Debug\Question_1.pdb
+C:\Projects\MyInfo\New folder\Moderation for 2022\242 October 2022\Principles of Computer Programming L3P2 of 2022\NCV 01 of 2022\StudentFiles\VB2008\Question_1\Question_1\bin\Debug\Question_1.xml
+C:\Projects\MyInfo\New folder\Moderation for 2022\242 October 2022\Principles of Computer Programming L3P2 of 2022\NCV 01 of 2022\StudentFiles\VB2008\Question_1\Question_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\MyInfo\New folder\Moderation for 2022\242 October 2022\Principles of Computer Programming L3P2 of 2022\NCV 01 of 2022\StudentFiles\VB2008\Question_1\Question_1\obj\Debug\Question_1.frmQuestion1.resources
+C:\Projects\MyInfo\New folder\Moderation for 2022\242 October 2022\Principles of Computer Programming L3P2 of 2022\NCV 01 of 2022\StudentFiles\VB2008\Question_1\Question_1\obj\Debug\Question_1.Resources.resources
+C:\Projects\MyInfo\New folder\Moderation for 2022\242 October 2022\Principles of Computer Programming L3P2 of 2022\NCV 01 of 2022\StudentFiles\VB2008\Question_1\Question_1\obj\Debug\Question_1.vbproj.GenerateResource.Cache
+C:\Projects\MyInfo\New folder\Moderation for 2022\242 October 2022\Principles of Computer Programming L3P2 of 2022\NCV 01 of 2022\StudentFiles\VB2008\Question_1\Question_1\obj\Debug\Question_1.exe
+C:\Projects\MyInfo\New folder\Moderation for 2022\242 October 2022\Principles of Computer Programming L3P2 of 2022\NCV 01 of 2022\StudentFiles\VB2008\Question_1\Question_1\obj\Debug\Question_1.xml
+C:\Projects\MyInfo\New folder\Moderation for 2022\242 October 2022\Principles of Computer Programming L3P2 of 2022\NCV 01 of 2022\StudentFiles\VB2008\Question_1\Question_1\obj\Debug\Question_1.pdb
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\PCP L3 P2 Nov 2023 StudentFiles\VB2008\Question_1\Question_1\obj\Debug\Question_1.exe
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\PCP L3 P2 Nov 2023 StudentFiles\VB2008\Question_1\Question_1\obj\Debug\Question_1.xml
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\PCP L3 P2 Nov 2023 StudentFiles\VB2008\Question_1\Question_1\obj\Debug\Question_1.pdb
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\MODERATED PCP L3 P2 -NOV 2023\QUESTION1\Question_1\obj\Debug\Question_1.exe
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\MODERATED PCP L3 P2 -NOV 2023\QUESTION1\Question_1\obj\Debug\Question_1.xml
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\MODERATED PCP L3 P2 -NOV 2023\QUESTION1\Question_1\obj\Debug\Question_1.pdb
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\MODERATED PCP L3 P2 -NOV 2023\QUESTION1\Question_1\bin\Debug\Question_1.exe
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\MODERATED PCP L3 P2 -NOV 2023\QUESTION1\Question_1\bin\Debug\Question_1.pdb
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\MODERATED PCP L3 P2 -NOV 2023\QUESTION1\Question_1\bin\Debug\Question_1.xml
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\MODERATED PCP L3 P2 -NOV 2023\QUESTION1\Question_1\obj\Debug\ResolveAssemblyReference.cache
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\MODERATED PCP L3 P2 -NOV 2023\QUESTION1\Question_1\obj\Debug\Question_1.frmQuestion1.resources
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\MODERATED PCP L3 P2 -NOV 2023\QUESTION1\Question_1\obj\Debug\Question_1.Resources.resources
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\MODERATED PCP L3 P2 -NOV 2023\QUESTION1\Question_1\obj\Debug\Question_1.vbproj.GenerateResource.Cache
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\PCP L3 P2 -NOV 2023 - STUDENT FILES\QUESTION1\Question_1\obj\Debug\Question_1.exe
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\PCP L3 P2 -NOV 2023 - STUDENT FILES\QUESTION1\Question_1\obj\Debug\Question_1.xml
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\PCP L3 P2 -NOV 2023 - STUDENT FILES\QUESTION1\Question_1\obj\Debug\Question_1.pdb
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\PCP L3 P2 -NOV 2023 - STUDENT FILES\QUESTION1\Question_1\bin\Debug\Question_1.exe
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\PCP L3 P2 -NOV 2023 - STUDENT FILES\QUESTION1\Question_1\bin\Debug\Question_1.pdb
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\PCP L3 P2 -NOV 2023 - STUDENT FILES\QUESTION1\Question_1\bin\Debug\Question_1.xml
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\PCP L3 P2 -NOV 2023 - STUDENT FILES\QUESTION1\Question_1\obj\Debug\ResolveAssemblyReference.cache
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\PCP L3 P2 -NOV 2023 - STUDENT FILES\QUESTION1\Question_1\obj\Debug\Question_1.frmQuestion1.resources
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\PCP L3 P2 -NOV 2023 - STUDENT FILES\QUESTION1\Question_1\obj\Debug\Question_1.Resources.resources
+F:\UMALUSI 2023\PCP L3 P2 NOV 23\PCP L3 P2 -NOV 2023 - STUDENT FILES\QUESTION1\Question_1\obj\Debug\Question_1.vbproj.GenerateResource.Cache
+C:\Users\RM14330\Desktop\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\QUESTION1\Question_1\bin\Debug\Question_1.exe.config
+C:\Users\RM14330\Desktop\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\QUESTION1\Question_1\obj\Debug\Question_1.exe
+C:\Users\RM14330\Desktop\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\QUESTION1\Question_1\obj\Debug\Question_1.xml
+C:\Users\RM14330\Desktop\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\QUESTION1\Question_1\obj\Debug\Question_1.pdb
+C:\Users\RM14330\Desktop\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\QUESTION1\Question_1\obj\Debug\Question_1.frmQuestion1.resources
+C:\Users\RM14330\Desktop\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\QUESTION1\Question_1\obj\Debug\Question_1.Resources.resources
+C:\Users\RM14330\Desktop\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\QUESTION1\Question_1\obj\Debug\Question_1.vbproj.GenerateResource.Cache
+C:\Users\RM14330\Desktop\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\QUESTION1\Question_1\bin\Debug\Question_1.exe
+C:\Users\RM14330\Desktop\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\QUESTION1\Question_1\bin\Debug\Question_1.pdb
+C:\Users\RM14330\Desktop\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\QUESTION1\Question_1\bin\Debug\Question_1.xml
